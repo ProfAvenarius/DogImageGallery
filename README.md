@@ -1,3 +1,7 @@
+A class project in Front End Dev that makes use of an API.
+In this instance a gallery to display images from the dog api.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
